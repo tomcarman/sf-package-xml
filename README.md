@@ -1,5 +1,24 @@
-# sf-package-xml
-A list of most metadata types, and their format in package.xml
+# Salesforce Reference package.xml 
+
+Salesforce uses inconsistent syntax for referencing metadata in the package.xml.
+
+For example 
+
+```Some Things Have Spaces```
+
+whilst 
+
+```Other_Things_Use_Underscores``` 
+
+and
+
+```SomeUseTheObject__c.As_As_Prefix__c``` 
+
+or even
+
+```Folder_Name/With_Content```
+
+This is a list of most metadata types, and their format in package.xml.
 
 
 # Example
