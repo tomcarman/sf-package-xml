@@ -50,4 +50,3 @@ This is a list of most metadata types, and their format in package.xml.
         <members>Object.Example_Name</members>
         <name>ApprovalProcess</name>
     </types>
-    ```
